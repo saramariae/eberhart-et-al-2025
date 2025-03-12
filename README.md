@@ -13,6 +13,6 @@ This repository contains the data preparation and imputation for Eberhart et al.
 
 ### Files
 - `assetfinance.xlsx`: This dataset contains the merged project and finance data from BNEF. Given this is proprietary data, the data is not included but only the column headers.
-- `organizations_classified.xlsx`: This dataset contains the organizations data from BNEF, including the classification into investor types as described in the paper (mapping files available in the supplementary material). Given this is proprietary data, the data is not included but only the column headers
+- `organizations_classified.xlsx`: This dataset contains the organizations data from BNEF, including the classification into investor types as described in the paper (mapping files available in the supplementary material). Given this is proprietary data, the data is not included but only the column headers.
 - `US_CPI_annual.xlsx`: This file contains the inflation data for the US. This is public data and available from the World Bank, thus this file only includes the structure of the data for ease of code implementation.
 - `countries_regions_match_IRENA.xlsx`: This file contains the mapping of countries into regions and specifically the OECD countries, according to the IRENA methodology.
