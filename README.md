@@ -1,8 +1,9 @@
 # The internationalization of renewable energy finance
 Sara Eberhart, Tobias S. Schmidt, Bjarne Steffen, Florian Egli
-ETH Zurich
 
-maintained by: Sara Eberhart <sara.eberhart@gess.ethz.ch>
+ETH Zurich, TU Munich
+
+Maintained by: Sara Eberhart <sara.eberhart@gess.ethz.ch>
 
 ### Summary
 Mitigating climate change necessitates vast investments into clean energy technologies globally, requiring internationalization not only of knowledge, production, and policies but also finance. This paper examines 42,291 renewable energy investment deals across OECD countries from 2004 to 2022, revealing highly international capital flows. Results show that $US 45.4B annually (45%) is invested across borders, with varying degrees between countries. Further, renewable energy investments increasingly mirror general foreign direct investment (89% correlation), indicating financial mainstreaming, which can contribute to rapid deployment. These results are primarily driven by onshore wind and solar photovoltaic (PV). While all technologies experienced increased international capital mobility, offshore wind leads with 76% of capital exiting borders, whereas biomass is largely financed domestically (36% international). In sum, while international capital mobility has been crucial for growth in RE deployment, substantial country and technology differences exist. Our findings offer learnings for novel low-carbon technologies and inform future research.
