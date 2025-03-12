@@ -1,4 +1,4 @@
-!\[DOI:10.5381/zenodo.15013913\](https://zenodo.org/badge/DOI/10.5281/zenodo.15013913.svg)
+![DOI:10.5281/zenodo.15013913](https://zenodo.org/badge/DOI/10.5281/zenodo.15013913.svg)
 
 # The internationalization of renewable energy finance
 Sara Eberhart, Tobias S. Schmidt, Bjarne Steffen, Florian Egli
